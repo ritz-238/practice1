@@ -28,4 +28,11 @@
         android:text="Save"
         android:gravity="center"/>
 
+    <TextView
+        android:id="@+id/item_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:textColor="#E91E63" />
+
 </LinearLayout>
